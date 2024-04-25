@@ -1,5 +1,5 @@
 @extends('layouts.parent')
-@section('title', 'AEdit Meal')
+@section('title', 'Edit Meal')
 @section('content')
     <div class="col-sm-12 col-xl-12">
 
@@ -78,7 +78,7 @@
 
 
 
-               <div class="form-group text-center">
+               <div class="form-group text-center mb-5">
                 <button type="submit" class="btn btn-primary"> update </button>
                </div>
             </form>
